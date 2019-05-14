@@ -225,4 +225,4 @@ echo "  http://localhost:8080"
 echo ""
 echo "Although Jenkins should be installed at this point, it hasn't been secured. See this link:"
 echo "https://wiki.jenkins-ci.org/display/JENKINS/Standard+Security+Setup"
-echo ""
+echo "".
